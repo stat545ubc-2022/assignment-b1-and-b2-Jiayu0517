@@ -1,8 +1,8 @@
 Package: digitalCounter.R
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: a digit counter that will count the number of integer digits in a decimal number.
+Version: 0.1.0
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Jiayu", "Huang", , "hjy1999@student.ubc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
