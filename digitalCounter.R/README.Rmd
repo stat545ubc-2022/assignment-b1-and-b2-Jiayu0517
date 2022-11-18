@@ -1,0 +1,17 @@
+The purpose of `digitsCounter` is to provide a tool to count numbers of integer digits.
+
+To install `digitCounter`, the package created in part B2 which wraps the function `digitCount()` created in part B1
+
+```{r}
+devtools::install_github("stat545ubc-2022/assignment-b1-and-b2-Jiayu0517")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r}
+library(IntDigitsCounter)
+IntDigitsCounter(c(0.123, 1, -245, 4308.99), na.rm = FALSE)
+```
+
